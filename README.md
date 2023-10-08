@@ -6,9 +6,7 @@
 
 #### What I'm learning? :pencil:
 
-![Yoda](https://storage.googleapis.com/sticker-prod/T1To2j5JIS3kXnaecvEc/cover.thumb256.png)
-![Yoda](https://storage.googleapis.com/sticker-prod/T1To2j5JIS3kXnaecvEc/cover.thumb256.png)
-![Yoda](https://storage.googleapis.com/sticker-prod/T1To2j5JIS3kXnaecvEc/cover.thumb256.png)
+
 
 
 
