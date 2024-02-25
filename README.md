@@ -1,10 +1,12 @@
 ### Hi there I'm Evelyn👋
 
-#### Few things about me:point_down::
+#### Few things about me :point_down: :
 
 I'm from Tenerife, Canary Islands but I left my home ten years ago to live in Madrid. I know you are going to say "why? why? :anguished: I'm still working in a good response :sweat_smile: . But let me say if this one works, I come to Madrid to study Art History and stay here cause I found a job 💼. 
 
 *I'm a Full Stack Developer thanks to @4GeeksAcademy. Due to my career I have a lot of creativity that I use in my projects* 🚀 
+
+[Escríbeme](mailto:gomezmarrero.evelyn@gmail.com) 📫
 
 #### Technologies? :pencil:
 *I think it's better summarize it with an image...*
